@@ -1,0 +1,24 @@
+<!-- Documento XML con errores de sintaxis. -->
+<?xml version="1.0" encoding="UTF-8"?>
+<numeros>
+   <numero valor="1">
+        <letra>u</letra>
+        <letra>n</letra>
+        <letra>o</letra>
+   <numero/>
+
+    <numero valor="2">
+        <letra>d</letra>
+        <letra>o</letra>
+        <letra>s</letra>
+   <numero/>
+
+    <numero valor="6">
+        <letra>s</letra>
+        <letra>e</letra>
+        <letra>i</letra>
+        <letra>s</letra>
+   <numero/>
+</numeros>
+
+
