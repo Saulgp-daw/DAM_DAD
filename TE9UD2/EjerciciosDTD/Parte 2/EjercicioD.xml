@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Libro  SYSTEM "EjercicioD.dtd">
+<Libro xmlns="xvxcv">
+    <Titulo>sdsdsd sdsd</Titulo>
+    <Contenido>
+        <Capitulo materia="XML">
+            <Tema>1</Tema>
+            <Seccion apartados="6">B</Seccion>
+        </Capitulo>
+        <Separacion />
+    </Contenido>
+    <Copyright>sdsds</Copyright>
+</Libro>

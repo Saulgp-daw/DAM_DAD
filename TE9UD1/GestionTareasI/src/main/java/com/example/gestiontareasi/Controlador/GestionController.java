@@ -1,11 +1,13 @@
 package com.example.gestiontareasi.Controlador;
 
 import com.example.gestiontareasi.HelloApplication;
+import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 import javafx.scene.control.Button;
+import javafx.scene.control.ListView;
 import javafx.scene.control.TextArea;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -20,7 +22,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class GestionController {
-    public TextArea taTareasPendientes;
+    private ObservableList<String> items;
+    public ListView taTareasPendientes;
     public Button btnAgregarTarea;
     public TextArea taAgregarTareas;
     public Button btnGuardar;
@@ -29,6 +32,7 @@ public class GestionController {
     private Stage ventanaAgregar;
 
     public ArrayList<String> tareas = new ArrayList<String>();
+
 
     private void setVentana(Stage stage){
         this.ventanaAgregar = stage;
@@ -60,7 +64,10 @@ public class GestionController {
     @FXML
     public void agregarDatos(ActionEvent actionEvent) throws IOException {
         String tarea = taAgregarTareas.getText();
-        tareas.add(tarea);
+        this.items.add(tarea);
+
+        ListView<String> listView = new ListView<>(items);
+
 
 
         Node source = (Node) actionEvent.getSource();

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Pedido  SYSTEM "EjercicioC.dtd">
+<Pedido xmlns="dfsdf" fecha="dsfsd">
+    <Destino>
+        <Nombre>ASassa</Nombre>
+        <Direccion>C/ Caasasas</Direccion>
+        <Ciudad>Madrid</Ciudad>
+        <CodPostal>23455</CodPostal>
+    </Destino>
+    <Ordenante>
+        <Nombre>ASassa</Nombre>
+        <Direccion>C/ Caasasas</Direccion>
+        <Ciudad>Madrid</Ciudad>
+        <CodPostal>23455</CodPostal>
+    </Ordenante>
+    <Observaciones>dsdsdsdsd</Observaciones>
+    <Contenido>
+        <Producto codigo="sdfsdfds">
+            <Nombre>dssaasd</Nombre>
+            <Cantidad>33</Cantidad>
+            <Precio>dasdad</Precio>
+        </Producto>
+    </Contenido>
+</Pedido>

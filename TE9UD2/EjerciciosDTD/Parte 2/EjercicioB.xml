@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE catalogo  SYSTEM "EjercicioB.dtd">
+<catalogo>
+    <producto codigo="sdsds">
+        <nombre>AAA</nombre>
+        <descripcion>AASAs</descripcion>
+        <origen>Sdsd</origen>
+    </producto>
+    <producto codigo="hhhhh">
+        <nombre>bbbbb</nombre>
+        <descripcion>AASAs</descripcion>
+        <pais>España</pais>
+    </producto>
+</catalogo>

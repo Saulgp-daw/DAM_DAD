@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE departamentos  SYSTEM "EjercicioA.dtd">
+<departamentos>
+    <departamento>
+        <nomdept>LALA</nomdept>
+        <responsable>
+            <nombre>Pepe</nombre>
+            <apellidos>Jouas</apellidos>
+            <email>asas@gmail.com</email>
+            <extension>Sr.</extension>
+        </responsable>
+        <personas>
+           <persona>
+            <nombre>Pepe</nombre>
+            <apellidos>Jouas</apellidos>
+            <email>asas@gmail.com</email>
+            <extension>Sr.</extension>
+           </persona>
+           <persona>
+            <nombre>Pepe</nombre>
+            <apellidos>Jouas</apellidos>
+            <email>asas@gmail.com</email>
+            <extension>Sr.</extension>
+           </persona>
+        </personas>
+    </departamento>
+</departamentos>

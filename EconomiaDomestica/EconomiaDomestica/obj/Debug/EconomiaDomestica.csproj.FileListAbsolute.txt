@@ -1,0 +1,37 @@
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.AssemblyReference.cache
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.Properties.Resources.resources
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.GenerateResource.cache
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.CoreCompileInputs.cache
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EconomiaDomestica.exe.config
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EconomiaDomestica.exe
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EconomiaDomestica.pdb
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.dll
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.dll
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.xml
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.xml
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.CopyComplete
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.exe
+C:\Users\evita\Documents\ProyectoCSharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.pdb
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EconomiaDomestica.exe.config
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EconomiaDomestica.exe
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EconomiaDomestica.pdb
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.dll
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.SqlServer.dll
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.EF6.dll
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.Linq.dll
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.xml
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\EntityFramework.SqlServer.xml
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\bin\Debug\System.Data.SQLite.xml
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.AssemblyReference.cache
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.Properties.Resources.resources
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.Views.MainView.resources
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.GenerateResource.cache
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.CoreCompileInputs.cache
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.csproj.CopyComplete
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.exe
+F:\WorkSpace\C Sharp\EconomiaDomestica\EconomiaDomestica\obj\Debug\EconomiaDomestica.pdb

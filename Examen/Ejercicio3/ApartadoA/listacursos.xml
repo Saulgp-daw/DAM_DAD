@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listacursos SYSTEM "ListaCursos.dtd">
+
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>123456789</dni>
+            <nombre>Juan</nombre>
+            <ap1>Perez</ap1>
+            <ap2>Gomez</ap2>
+            <listaasignaturas>
+                <asignatura codigo="MATH101">
+                    <nombre>Matemáticas</nombre>
+                    <profesor>
+                        <nrp>001</nrp>
+                        <nombre>Profesor1</nombre>
+                        <ap1>Apellido1</ap1>
+                        <ap2>Apellido2</ap2>
+                    </profesor>
+                </asignatura>
+                <asignatura codigo="PHYS101">
+                    <nombre>Física</nombre>
+                    <profesor>
+                        <nrp>002</nrp>
+                        <nombre>Profesor2</nombre>
+                        <ap1>Apellido3</ap1>
+                        <ap2>Apellido4</ap2>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>

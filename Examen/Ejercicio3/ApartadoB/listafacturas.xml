@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listafacturas SYSTEM "ListaFacturas.dtd">
+<listafacturas>
+    <factura fecha="11-2-2015">
+        <emisor dni="44111222A">
+            <nombre>Antonio</nombre>
+            <apellidos>Hernandez Dorta</apellidos>
+        </emisor>
+        <pagador cif="B368456">
+            <nombre>ACME Inc</nombre>
+            <volumenventas>2000</volumenventas>
+        </pagador>
+        <importe>2500</importe>
+    </factura>
+    <factura fecha="10-3-2015">
+        <emisor cif="B368456">
+            <razonsocial>ACME</razonsocial>
+        </emisor>
+        <pagador dni="41234999P">
+            <nombre>Ana</nombre>
+            <apellidos>Carrillo Solan</apellidos>
+            <volumenventas>2000</volumenventas>
+        </pagador>
+        <importe>2500</importe>
+    </factura>
+</listafacturas>

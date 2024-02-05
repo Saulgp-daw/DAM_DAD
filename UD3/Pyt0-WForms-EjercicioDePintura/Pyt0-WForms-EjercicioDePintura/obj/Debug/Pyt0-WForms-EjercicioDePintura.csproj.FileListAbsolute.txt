@@ -1,0 +1,10 @@
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\bin\Debug\Pyt0-WForms-EjercicioDePintura.exe.config
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\bin\Debug\Pyt0-WForms-EjercicioDePintura.exe
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\bin\Debug\Pyt0-WForms-EjercicioDePintura.pdb
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0-WForms-EjercicioDePintura.csproj.AssemblyReference.cache
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0_WForms_EjercicioDePintura.Form1.resources
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0_WForms_EjercicioDePintura.Properties.Resources.resources
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0-WForms-EjercicioDePintura.csproj.GenerateResource.cache
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0-WForms-EjercicioDePintura.csproj.CoreCompileInputs.cache
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0-WForms-EjercicioDePintura.exe
+F:\WorkSpace\C Sharp\1 - Boton personalizado\Pyt0-WForms-EjercicioDePintura\Pyt0-WForms-EjercicioDePintura\obj\Debug\Pyt0-WForms-EjercicioDePintura.pdb
